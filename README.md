@@ -1,4 +1,6 @@
 # cloud-itonami-isco-2424
+Occupation reference: ISCO-08 (International Labour Organization, 2012), code 2424. This app is not produced, reviewed or endorsed by the ILO.
+職業の参照: ISCO-08（国際労働機関 ILO、2012 年）のコード 2424。日本語の名称は当方の訳です。この app は ILO が作成・確認・推奨したものではありません。
 
 **Community Training Practice** — the ISCO-08 2424 (Training and Staff
 Development Professionals) actor, an ISCO **Wave 0** occupation per
